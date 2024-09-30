@@ -48,12 +48,6 @@
 
 Так как модели предобучены, то они уже неплохо справляются. Это значит, что не нужно много эпох на дообучение, поэтому сделано всего 2 эпохи обучения. Обе сети показали себя примерно одинаково - получили accuracy 0.80 - 0.81.
 
-Графики в зависимости от эпох:
-
-![loss](https://github.com/bigvladimir/AI_Lab_CNN/blob/main/images/graph_loss_task2.png)
-
-![accuracy](https://github.com/bigvladimir/AI_Lab_CNN/blob/main/images/graph_acc_task2.png)
-
 Матрица неточностей:
 ![матрица задание 2](https://github.com/bigvladimir/AI_Lab_CNN/blob/main/images/matrix_task2.png)
 
